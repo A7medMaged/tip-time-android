@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="et">تكلفة الخدمة</string>
+    <string name="tv1">كيف كانت الخدمة؟</string>
+    <string name="rb1">مدهش (٢٠٪)</string>
+    <string name="rb2">جيد (١٨٪)</string>
+    <string name="rb3">تمام (١٥٪)</string>
+    <string name="sw">تقريب؟</string>
+    <string name="calc">احسب</string>
+    <string name="tv3">المبلغ</string>
+    <string name="pro">تحميل</string>
+    <string name="reset">تعديل…</string>
+</resources>
